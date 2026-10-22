@@ -1,0 +1,14 @@
+{
+  "name": "Darul Quran w Sunnah - Maktab Management",
+  "short_name": "Darul Quran",
+  "description": "Offline student, attendance and fee management for Darul Quran w Sunnah.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f6f3",
+  "theme_color": "#123d32",
+  "icons": [
+    {"src":"icon-192.png","sizes":"192x192","type":"image/png"},
+    {"src":"icon-512.png","sizes":"512x512","type":"image/png"}
+  ]
+}
